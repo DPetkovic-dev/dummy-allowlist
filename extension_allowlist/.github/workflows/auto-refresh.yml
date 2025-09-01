@@ -22,6 +22,7 @@ jobs:
 
       - name: Run update script
         run: |
+          git pull
           cd extension_allowlist/
           npm run refresh-main
 
