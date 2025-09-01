@@ -8,7 +8,6 @@ const files = [
   "./contributable_lists/supervision.txt",
   "./contributable_lists/accessibility.txt",
   "./contributable_lists/productivity.txt",
-  "./internal/internal.txt",
 ];
 
 const outputFile = "main.txt";

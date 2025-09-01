@@ -21,7 +21,9 @@ jobs:
           node-version: '16'
 
       - name: Run update script
-        run: npm run refresh-main
+        run: 
+          cd extension_allowlist/
+          npm run refresh-main
 
       - name: Commit refresh main.txt
         run: |
