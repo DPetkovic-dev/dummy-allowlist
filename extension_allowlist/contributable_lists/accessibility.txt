@@ -1,0 +1,9 @@
+415b4c63b6774aa2dfa40fed77c0f34a // Read Aloud: A Text to Speech Voice Reader
+df172e8253803efda4424b555719d696 // chromevox (Screen Reader)
+89ac16f71c25f80db0e551503c15e570 // Kurzweil 3000
+af348e39dbc48b9bad754cfe06af550d // Read The Web - Chrome
+78ef4f76f06657814fa3cc41ffb48529 // Read the Web - Edge
+372177dc35149563b282d1de209ed099 // Read&Write - Chrome
+7b314b0d8ca10e18db60d72868781b2c // Read&Write - Edge
+7e102a9e84d0fc1d8521a5fa8663bb1c // Read&Write - Screenshot reader
+08fb7c3f5c5769caff1ff8c6288fafaa // Nuance PowerMic Web Extension

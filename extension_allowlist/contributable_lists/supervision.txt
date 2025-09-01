@@ -1,0 +1,45 @@
+f3f5976bc7616c033339f391eaf6334f // Dell Activity Light
+8dfae842747959cd17dc1b696a7d612b // NetRef: Classroom Management
+27ad3e50e2c9fb682deacd68fbe7e703 // iboss Classroom Management
+9c460c52ef77c1d51fa057e7abb2f250 // iboss cloud Enterprise
+9b396d00cd568ee8954d76e260f57cb6 // Clever
+cf69423f2ae6f496a26dd272ea55a8d5 // TestNav
+5f8c9027f549a360fa3be009d72064be // Lightspeed Filter Agent
+39c3853009e5b8b62b0f7175f9590ba5 // Lightspeed Alert Agent
+b62b6e4dba2d987acc4f7fb54e3dbf47 // Central School District (GoGuardian extension)
+77b1dccff954279730735a98f608d303 // John Wood Community College (GoGuardian extension)
+e3cbed6bd98f10738df4195a8aeba120 // Seaford School District (GoGuardian extension)
+2d9532ec64b4ba90bdd0816f20526743 // Dublin Unified School District (GoGuardian extension)
+b6dca4598d87e685219b2eafe4d57bd8 // New Haven Unified School District (GoGuardian extension)
+2b1b8247075f3df69ec4dfb9db1ad159 // Grossmont Union High School District (GoGuardian extension)
+498022e8a4c969cbeaf34d28a85f63e5 // Albuquerque Public Schools (GoGuardian extension)
+3f3ff88b071713aff79415fc00410cb0 // Colonial School District (GoGuardian extension)
+ae2cd46c76fb6fc0fcdd19dfaac0cd5d // Camino Nuevo Charter Academy (GoGuardian extension)
+e2d6588b93c8f8ae815fe1114268eed3 // GoGuardian Licenses App - Cabarrus GoGuardian
+dac988f09b3a3aaedcba4a48cb384ed3 // USD 420 Osage City Schools (GoGuardian extension)
+20d388db3e08164a0bc6c63644f2f54f // Tukwila School District (GoGuardian extension)
+7b2a9698957bf49d8623df1a0286bd8 // Renton School District (GoGuardian extension)
+4e7f64984e25f7fde3117a5a51a20130 // Moses Lake School District (GoGuardian extension)
+6489eed5b1eb8d041668cc54cebc5aa8 // Chambersburg Area School District (GoGuardian extension)
+62ea3d5eb09942e833daffa434ce2f12 // Chamberlain School District 07‑1 (GoGuardian extension)
+5f1bfbf0627d92788d769c113df41528 // Tracy Unified School District (GoGuardian extension)
+ad4b8440785e6fe58a03cc897af207b2 // Lafayette Parish School System (GoGuardian extension)
+3dcb337bf1bc5255ffa304d2e2e7089f // San Dieguito UHSD (GoGuardian extension)
+73861501574761cf817ff6e75ef0e392 // Robert F. Kennedy Charter School (GoGuardian extension)
+a4eb3694f2a52096fa5ff21ec0783a37 // Opportunity Charter School (GoGuardian extension)
+6db28494fde2942934731c7986ec55a3 // Madison County School District (GoGuardian extension)
+fabce840c24a5ff5b74a9e3f34a55bbc // California Pacific Charter Schools (GoGuardian extension)
+b4d90aba269e59f7df68a27b37b9dfb9 // College Community School District (GoGuardian extension)
+911c95359f53f9a7ac961ae38c11d25a // Center Joint Unified School District GoGuardian Licenses App ID
+18b49c529390be9b38ea5087448c4cc2 // Salinas Union High School District GoGuardian Licenses App ID
+ad04feb631294e165e9ed8fb264b04cd // Terra Academy GoGuardian Licenses App ID
+94a6c3aaa7cdfd187b39c46f314a143e // Corona‑Norco Unified School District GoGuardian Licenses App ID
+c78ca46d414dd248e4e7a2b38a8e908a // Blocksi Enterprise Edition
+946a38f3bcc5147707c1eb61f35ced73 // Dyknow Cloud
+1f0cf8f758ea4b9a6a854754b98d5cd9 // LanSchool Web Helper
+9a953dce2578a95865a8f71c3ea6469f // Lightspeed Classroom – EHOVE requested
+c4194a98f083a8bb44768606b91b7888 // ClassLink Analytics+ (Chrome/Edge)
+d5a530cf47c1fbdeede26533ff711fa9 // ClassLink OneClick (Chrome)
+e72474cb364e9c1384a9ca7a790df1a8 // LanSchool Web Helper (Edge)
+c14b372ee1ec7a59ecd8ecdc65152d10 // Lightspeed Alert Helper & Lightspeed Relay Classroom Helper Extension (Chrome/Edge)
+95584c81905964c048130035fc0f4ed0 // Relay Classroom helper Extension (Edge)

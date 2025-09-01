@@ -1,0 +1,22 @@
+dffa03c4369baa15117f2fe702c836a5 // Windows Accounts
+6cfc56928d797160680414008bc54c47 // Google Classroom
+4fc629284e034c0b1f02a2a870117f0b // Google Docs Offline
+72545848b73de8d84a436cea27a1f296 // Google Drive
+efd45285dda341cde38141a30679bace // Google Keep - Notes and Lists
+6398e0c5dc511867cb065f9ee49e5f1a // Google Mail Checker
+16f0675bf204f08bd872c9db571554ba // Slides
+672b2b778a64af33c9f0a81eeb1c0d0e // Jamboard
+fef1abf95a49b95819d09dc68b65c25d // Dropbox
+8c5faff1c6d52aefb71a760738521a42 // App Runtime for Chrome
+b802f1e756deb8937a8cd9f9e2062196 // Application Launcher For Drive (by Google)
+8a9e142ba3253c52cd9b2ed21c778a80 // ARC Welder
+48a505392b9a679c256126d1a82703b1 // Attendance for Google
+f60d74416cd1c8c335640f35a8ae60ad // Harmony Web Protection
+5540c7875e266b0b355670141851c5f5 // Tab Capture
+6e11fd2d39b6fc97365f1e5035eb6286 // Reader View
+fed0857cdc5851a078fddf07e300ccc5 // Whatfix for Microsoft
+45e5a8a0a7724ec61ea1577a336e8bde // Whatfix for Unitek
+182873fe149f7c3fda2f1cee43a2538a // Just Black
+e29fb05f959c4ce690f936214a42bab6 // Synergyse (g suite training) - EHOVE requested
+b947dcb1e3efc9d0858492d1b87865d1 // Blue Prism 7.2 Browser Extension
+c81b9f8fdc542dd50310399b41ba18f0 // Cloudpath Certificate

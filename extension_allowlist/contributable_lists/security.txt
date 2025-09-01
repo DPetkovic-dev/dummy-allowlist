@@ -1,0 +1,28 @@
+395e5d7feaf28c457ea97c0e472efa5e // Web Threat Shield
+7e07ea573073d77493afe0a340df2819 // Endpoint Verification
+05c89778c578dadc6375f66e7bbf18b4 // Microsoft Defender Browser Protection
+03172b48c8d326184dc2529b5984135f // McAfee® WebAdvisor
+7848e57b769e6a3a428a841c77d1e360 // Symantec Endpoint
+ddfaed1d7e0ed90ff854c96bb6f86a69 // Symantec Extension
+d49cafc725ec3a3f6bca9d6b7d8997d1 // SentinelOne
+98d5d607219427d2a8514a315ef05e66 // SentinelOne - Edge
+f1ea1bda1a8db0daa0ddac4f9acc28d6 // Netskope
+c290674cbfcf19e3659f5304075a3afa // HP Wolf Security Extension
+18420e560c0452beee36b75d8c85ad9a // PIXM Phishing Protection Chrome
+4e25fd6dc904903b7e6492c7daca3f53 // PIXM Phishing Protection Edge
+e36bf3a24fb89994ab47b07bd2bfe800 // Web Application Metering
+590b62b1fe6e3ab68a531793ecbc57a0 // Google analytics opt out
+4bbff71eac39079196b70a3fde6d15a9 // Web Threat Shield (duplicate entry from earlier)
+38ad439d7890d1f3121c30c65b8e7b86 // OneLogin for Google Chrome
+a35176494da43e77ae06242f90e14da8 // ConcealBrowse
+deba8b72e7a48a8daebb3b0c8ed8a6e7 // ConcealBrowse (Edge)
+91dfd7d81d662b8cd2fb87991602910b // Bing Search by Fireshield
+3804467d2930143bf048fe6f1770907d // Cisco Security for Chromebook
+cb39996faa126ea228978bceab869d60 // Keeper® Password Manager & Digital Vault
+3421d4fbabbae4b8b998ab4859d17338 // Smoothwall Safeguarding Client (Global)
+f84d2e81b5b5c0386dc860667619574c // uBlock Origin Lite
+1d35d0edaece158b7ac20e757d721f9b // Lightspeed Alert Helper for Edge - EHOVE requested
+f005a3ce0b0945e6b93bc57e3951445f // Lightspeed Location Agent - EHOVE requested
+081549fbb408903f9855b6a1f9a77b3e // Trellix DLP Endpoint Extension
+4727b490d350ac0201556d4940200597 // LineWize Connect (Chrome/Edge)
+2c24e525d4ab5488ea03a760a8fe3746 // LineWize Filter Content Aware (Chrome/Edge)
