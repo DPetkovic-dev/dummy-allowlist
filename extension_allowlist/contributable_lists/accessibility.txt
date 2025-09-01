@@ -7,3 +7,8 @@ af348e39dbc48b9bad754cfe06af550d // Read The Web - Chrome
 7b314b0d8ca10e18db60d72868781b2c // Read&Write - Edge
 7e102a9e84d0fc1d8521a5fa8663bb1c // Read&Write - Screenshot reader
 08fb7c3f5c5769caff1ff8c6288fafaa // Nuance PowerMic Web Extension
+0e7198fbf4424ed59cce6f0089ed8aa6
+668465ddf06449c1938c80a33b310d98
+e63821d66b1e407d8851c1a68ec4cb36
+40a9c27a8f814868981827ef0e593ae7
+92414a26c9e946cc9cd04055dd2b0cd9
