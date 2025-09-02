@@ -41,4 +41,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add main.txt
           git commit -m "Auto-update main.txt" || echo "No changes"
-          git push https://DPetkovic-dev:${GH_PAT}@github.com/${REPO} HEAD:main
+          git push https://DPetkovic-dev:${GH_PAT}@github.com/DPetkovic-dev/dummy-allowlist.git HEAD:main
