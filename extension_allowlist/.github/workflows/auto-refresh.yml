@@ -28,6 +28,7 @@ jobs:
 
       - name: Commit refresh main.txt
         run: |
+          cd extension_allowlist/
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add main.txt
