@@ -27,6 +27,12 @@ jobs:
           git pull
           npm run refresh-main
 
+      - name: Debug PAT setup
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          echo "Token length: ${#GH_PAT}"
+
       - name: Debug git status
         run: |
           git status
