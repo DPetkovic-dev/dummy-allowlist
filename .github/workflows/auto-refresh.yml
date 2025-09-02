@@ -27,17 +27,6 @@ jobs:
           git pull
           npm run refresh-main
 
-      - name: Debug PAT setup
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          echo "Token length: ${#GH_PAT}"
-
-      - name: Debug git status
-        run: |
-          git status
-          git diff extension_allowlist/main.txt || echo "No diff"
-
       - name: Commit refresh main.txt
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
@@ -47,4 +36,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add main.txt
           git commit -m "Auto-update main.txt" || echo "No changes"
-          git push https://DPetkovic-dev:${GH_PAT}@github.com/DPetkovic-dev/dummy-allowlist.git HEAD:main
+          git push https://DPetkovic-dev:${GH_PAT}@github.com/${REPO} HEAD:main
