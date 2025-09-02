@@ -3,7 +3,7 @@ name: Update main.txt
 on:
   push:
     paths:
-      - 'extension_allowlist/contributable_lists/*.txt'
+      - 'contributable_lists/*.txt'
     branches:
       - main
 
@@ -23,12 +23,10 @@ jobs:
       - name: Run update script
         run: |
           git pull
-          cd extension_allowlist/
           npm run refresh-main
 
       - name: Commit refresh main.txt
         run: |
-          cd extension_allowlist/
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add main.txt
