@@ -7,3 +7,10 @@ af348e39dbc48b9bad754cfe06af550d // Read The Web - Chrome
 7b314b0d8ca10e18db60d72868781b2c // Read&Write - Edge
 7e102a9e84d0fc1d8521a5fa8663bb1c // Read&Write - Screenshot reader
 08fb7c3f5c5769caff1ff8c6288fafaa // Nuance PowerMic Web Extension
+415b4c63b6774aa2dfa40fed77c0f34a
+415b4c63b6774aa2dfa40fed77c0f34a
+415b4c63b6774aa2dfa40fed77c0f34a
+415b4c63b6774aa2dfa40fed77c0f34a
+415b4c63b6774aa2dfa40fed77c0f34a
+415b4c63b6774aa2dfa40fed77c0f34a
+415b4c63b6774aa2dfa40fed77c0f34a
