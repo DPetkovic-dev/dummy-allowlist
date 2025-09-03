@@ -6,7 +6,7 @@ Files that are adjustable are placed under contributable_lists folder.
 
 You may notice that each extension ID has the comment about the extension on the right side.<br>
 <strong>Please stick with that format and add a title or a short description on extension usage purpose</strong>.</br>
-<code>Format: EXTENSION_ID // extension titlle or the description</code>
+<code>Format: EXTENSION_ID // extension title or the description</code>
 <hr>
 
 <h3>Repository usage steps:</h3>
