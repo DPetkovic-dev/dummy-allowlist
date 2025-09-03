@@ -15,5 +15,5 @@ You may notice that each extension ID has the comment about the extension on the
   <li>Hit <code>edit this file</code> (a pen icon on the top-right side of the document content box), make your contribution and procceed with <code>Commit changes...</code></li>
   <li>Feel free to edit the commit message, extended description or branch name if needed, then continue with <code>Propose changes</code> button.</li>
   <li>If you're done with title and description editing, hit <code>Create pull request</code> button.</li>
-  <li>Once one of the repository admins approve your pull request, your changes will be merged and start being used in a real-time immediately.</li>
+  <li>Once one of the repository admins review & approve your pull request, your changes will be merged and immediately start being used in a real-time.</li>
 </ul>
