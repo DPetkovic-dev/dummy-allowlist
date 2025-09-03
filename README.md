@@ -9,7 +9,7 @@ You may notice that each extension ID has the comment about the extension on the
 <code>Format: EXTENSION_ID // extension title or the description</code>
 <hr>
 
-<h3>Repository usage steps:</h3>
+<h2>Repository usage steps:</h2>
 <ul>
   <li>Open .txt category file under contributable_lists folder that you would like to edit.</li>
   <li>Hit <code>edit this file</code> (a pen icon on the top-right side of the document content box), make your contribution and procceed with <code>Commit changes...</code></li>
