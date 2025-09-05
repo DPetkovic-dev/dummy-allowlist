@@ -1,4 +1,4 @@
-name: Update main.txt
+name: Update extensions.txt
 
 on:
   push:
@@ -25,15 +25,15 @@ jobs:
       - name: Run update script
         run: |
           git pull
-          npm run refresh-main
+          npm run refresh-list
 
-      - name: Commit refresh main.txt
+      - name: Commit refresh extensions.txt
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           REPO: ${{ github.repository }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add main.txt
-          git commit -m "Auto-update main.txt" || echo "No changes"
+          git add ../../extensions.txt
+          git commit -m "Auto-update extensions.txt" || echo "No changes"
           git push https://DPetkovic-dev:${GH_PAT}@github.com/${REPO} HEAD:main

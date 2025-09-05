@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "refresh-main": "node refresh_main.js"
+    "refresh-list": "node .github/scripts/refresh_list.js"
   },
   "keywords": [],
   "author": "",
