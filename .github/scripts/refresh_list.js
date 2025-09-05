@@ -1,0 +1,51 @@
+const fs = require('fs');
+const path = require('path');
+const crypto = require('crypto');
+
+// List your source files here
+const files = [
+  "../../contributable_lists/security.txt",
+  "../../contributable_lists/utilities.txt",
+  "../../contributable_lists/supervision.txt",
+  "../../contributable_lists/accessibility.txt",
+  "../../contributable_lists/productivity.txt",
+];
+
+const outputFile = "extensions.txt";
+
+async function updateMain() {
+  try {
+    let content = '';
+
+    for (const file of files) {
+      const filePath = path.join(__dirname, file);
+      if (fs.existsSync(filePath)) {
+        const data = await fs.promises.readFile(filePath, 'utf8');
+
+        // Split file content by lines
+        const lines = data.split('\n');
+
+        // Extract only the GUID (part before '//'), trimming whitespace
+        const guids = lines
+          .map(line => {
+            const id = line.split('//')[0].trim();
+            return crypto.createHash('md5').update(id).digest('hex')
+          })
+          .filter(line => line.length > 0); // ignore empty lines
+
+        // Join GUIDs back as lines
+        content += guids.join('\n') + '\n';
+
+      } else {
+        console.warn(`Warning: ${file} does not exist`);
+      }
+    }
+
+    await fs.promises.writeFile(path.join(__dirname, `../../${outputFile}`), content, 'utf8');
+    console.log(`${outputFile} has been updated.`);
+  } catch (err) {
+    console.error("Error updating extensions.txt:", err);
+  }
+}
+
+updateMain();
