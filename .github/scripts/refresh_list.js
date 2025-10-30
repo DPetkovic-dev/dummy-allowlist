@@ -29,7 +29,7 @@ async function updateMain() {
         const guids = lines
           .map(line => {
             const id = line.split('//')[0].trim();
-            return crypto.createHash('md5').update(id).digest('hex')
+            return crypto.createHash('md5').update(id).digest('hex');
           })
           .filter(line => line.length > 0); // ignore empty lines
 
